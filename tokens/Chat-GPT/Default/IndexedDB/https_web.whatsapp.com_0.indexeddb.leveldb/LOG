@@ -1,0 +1,19 @@
+2023/02/20-01:29:34.945 1cec Reusing MANIFEST C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/20-01:29:34.946 1cec Recovering log #265
+2023/02/20-01:29:35.122 1cec Reusing old log C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000265.log 
+2023/02/20-01:29:47.175 990 Level-0 table #278: started
+2023/02/20-01:29:47.494 990 Level-0 table #278: 1104189 bytes OK
+2023/02/20-01:29:47.526 990 Delete type=0 #265
+2023/02/20-01:29:48.936 1cec Compacting 1@1 + 9@2 files
+2023/02/20-01:29:49.466 1cec Generated table #279@1: 30007 keys, 2201083 bytes
+2023/02/20-01:29:49.795 1cec Generated table #280@1: 4102 keys, 2163231 bytes
+2023/02/20-01:29:50.116 1cec Generated table #281@1: 3787 keys, 2164235 bytes
+2023/02/20-01:29:50.347 1cec Generated table #282@1: 4049 keys, 2159107 bytes
+2023/02/20-01:29:50.757 1cec Generated table #283@1: 28897 keys, 2233392 bytes
+2023/02/20-01:29:51.293 1cec Generated table #284@1: 27831 keys, 2260765 bytes
+2023/02/20-01:29:51.526 1cec Generated table #285@1: 17022 keys, 2162579 bytes
+2023/02/20-01:29:51.955 1cec Generated table #286@1: 102361 keys, 2254180 bytes
+2023/02/20-01:29:52.533 1cec Generated table #287@1: 98073 keys, 2248894 bytes
+2023/02/20-01:29:52.673 1cec Generated table #288@1: 2394 keys, 53704 bytes
+2023/02/20-01:29:52.673 1cec Compacted 1@1 + 9@2 files => 19901170 bytes
+2023/02/20-01:29:52.704 1cec compacted to: files[ 0 0 10 0 0 0 0 ]
