@@ -1,66 +1,30 @@
-2023/02/21-00:26:54.272 2e5c Reusing MANIFEST C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/02/21-00:26:54.273 2e5c Recovering log #300
-2023/02/21-00:26:54.412 2e5c Reusing old log C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000300.log 
-2023/02/21-00:26:54.412 2e5c Delete type=2 #292
-2023/02/21-00:26:54.413 2e5c Delete type=2 #293
-2023/02/21-00:26:54.413 2e5c Delete type=2 #294
-2023/02/21-00:26:54.413 2e5c Delete type=2 #295
-2023/02/21-00:26:54.413 2e5c Delete type=2 #296
-2023/02/21-00:26:54.413 2e5c Delete type=2 #297
-2023/02/21-00:26:54.413 2e5c Delete type=2 #298
-2023/02/21-00:26:54.413 2e5c Delete type=2 #301
-2023/02/21-00:27:15.510 2530 Level-0 table #314: started
-2023/02/21-00:27:15.687 2530 Level-0 table #314: 1300527 bytes OK
-2023/02/21-00:27:15.717 2530 Delete type=0 #300
-2023/02/21-00:27:15.734 2530 Compacting 1@1 + 11@2 files
-2023/02/21-00:27:16.066 2530 Generated table #315@1: 35347 keys, 2210759 bytes
-2023/02/21-00:27:16.411 2530 Generated table #316@1: 3996 keys, 2162092 bytes
-2023/02/21-00:27:16.855 2530 Generated table #317@1: 3152 keys, 2157574 bytes
-2023/02/21-00:27:17.102 2530 Generated table #318@1: 4405 keys, 2166934 bytes
-2023/02/21-00:27:17.385 2530 Generated table #319@1: 24125 keys, 2211246 bytes
-2023/02/21-00:27:17.720 2530 Generated table #320@1: 27600 keys, 2262831 bytes
-2023/02/21-00:27:18.210 2530 Generated table #321@1: 21028 keys, 2189819 bytes
-2023/02/21-00:27:18.593 2530 Generated table #322@1: 78318 keys, 2221779 bytes
-2023/02/21-00:27:18.940 2530 Generated table #323@1: 97373 keys, 2246162 bytes
-2023/02/21-00:27:19.251 2530 Generated table #324@1: 36435 keys, 831292 bytes
-2023/02/21-00:27:19.251 2530 Compacted 1@1 + 11@2 files => 20660488 bytes
-2023/02/21-00:27:19.293 2530 compacted to: files[ 0 0 10 0 0 0 0 ]
-2023/02/21-00:27:19.294 2530 Delete type=2 #299
-2023/02/21-00:27:19.294 2530 Delete type=2 #302
-2023/02/21-00:27:19.294 2530 Delete type=2 #303
-2023/02/21-00:27:19.294 2530 Delete type=2 #304
-2023/02/21-00:27:19.294 2530 Delete type=2 #305
-2023/02/21-00:27:19.294 2530 Delete type=2 #306
-2023/02/21-00:27:19.294 2530 Delete type=2 #307
-2023/02/21-00:27:19.294 2530 Delete type=2 #308
-2023/02/21-00:27:19.294 2530 Delete type=2 #309
-2023/02/21-00:27:19.294 2530 Delete type=2 #310
-2023/02/21-00:27:19.294 2530 Delete type=2 #311
-2023/02/21-00:27:19.294 2530 Delete type=2 #314
-2023/02/21-00:56:34.158 2530 Level-0 table #326: started
-2023/02/21-00:56:34.356 2530 Level-0 table #326: 1006005 bytes OK
-2023/02/21-00:56:34.383 2530 Delete type=0 #313
-2023/02/21-00:56:34.542 b54 Compacting 1@1 + 10@2 files
-2023/02/21-00:56:35.003 b54 Generated table #327@1: 35677 keys, 2212054 bytes
-2023/02/21-00:56:35.320 b54 Generated table #328@1: 3995 keys, 2163187 bytes
-2023/02/21-00:56:35.614 b54 Generated table #329@1: 3153 keys, 2157040 bytes
-2023/02/21-00:56:35.815 b54 Generated table #330@1: 4404 keys, 2163374 bytes
-2023/02/21-00:56:36.090 b54 Generated table #331@1: 24008 keys, 2211284 bytes
-2023/02/21-00:56:36.469 b54 Generated table #332@1: 27646 keys, 2263469 bytes
-2023/02/21-00:56:36.730 b54 Generated table #333@1: 21093 keys, 2190882 bytes
-2023/02/21-00:56:37.043 b54 Generated table #334@1: 77680 keys, 2222383 bytes
-2023/02/21-00:56:37.388 b54 Generated table #335@1: 97412 keys, 2245877 bytes
-2023/02/21-00:56:37.586 b54 Generated table #336@1: 37926 keys, 867012 bytes
-2023/02/21-00:56:37.586 b54 Compacted 1@1 + 10@2 files => 20696562 bytes
-2023/02/21-00:56:37.627 b54 compacted to: files[ 0 0 10 0 0 0 0 ]
-2023/02/21-00:56:37.628 b54 Delete type=2 #315
-2023/02/21-00:56:37.628 b54 Delete type=2 #316
-2023/02/21-00:56:37.628 b54 Delete type=2 #317
-2023/02/21-00:56:37.628 b54 Delete type=2 #318
-2023/02/21-00:56:37.628 b54 Delete type=2 #319
-2023/02/21-00:56:37.628 b54 Delete type=2 #320
-2023/02/21-00:56:37.628 b54 Delete type=2 #321
-2023/02/21-00:56:37.628 b54 Delete type=2 #322
-2023/02/21-00:56:37.629 b54 Delete type=2 #323
-2023/02/21-00:56:37.629 b54 Delete type=2 #324
-2023/02/21-00:56:37.629 b54 Delete type=2 #326
+2023/02/21-01:47:46.731 16bc Reusing MANIFEST C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/21-01:47:46.733 16bc Recovering log #325
+2023/02/21-01:47:46.951 16bc Reusing old log C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000325.log 
+2023/02/21-02:07:10.427 16bc Level-0 table #339: started
+2023/02/21-02:07:10.825 16bc Level-0 table #339: 1096831 bytes OK
+2023/02/21-02:07:10.863 16bc Delete type=0 #325
+2023/02/21-02:07:10.939 3364 Compacting 1@1 + 10@2 files
+2023/02/21-02:07:11.543 3364 Generated table #340@1: 36912 keys, 2212795 bytes
+2023/02/21-02:07:11.982 3364 Generated table #341@1: 3965 keys, 2161912 bytes
+2023/02/21-02:07:12.381 3364 Generated table #342@1: 3153 keys, 2155720 bytes
+2023/02/21-02:07:12.757 3364 Generated table #343@1: 4408 keys, 2162741 bytes
+2023/02/21-02:07:13.324 3364 Generated table #344@1: 23562 keys, 2209838 bytes
+2023/02/21-02:07:13.947 3364 Generated table #345@1: 27750 keys, 2262225 bytes
+2023/02/21-02:07:14.468 3364 Generated table #346@1: 21245 keys, 2193136 bytes
+2023/02/21-02:07:15.401 3364 Generated table #347@1: 74815 keys, 2216511 bytes
+2023/02/21-02:07:16.560 3364 Generated table #348@1: 97469 keys, 2246124 bytes
+2023/02/21-02:07:17.064 3364 Generated table #349@1: 43523 keys, 994974 bytes
+2023/02/21-02:07:17.064 3364 Compacted 1@1 + 10@2 files => 20815976 bytes
+2023/02/21-02:07:17.124 3364 compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/02/21-02:07:17.128 3364 Delete type=2 #327
+2023/02/21-02:07:17.130 3364 Delete type=2 #328
+2023/02/21-02:07:17.130 3364 Delete type=2 #329
+2023/02/21-02:07:17.131 3364 Delete type=2 #330
+2023/02/21-02:07:17.131 3364 Delete type=2 #331
+2023/02/21-02:07:17.131 3364 Delete type=2 #332
+2023/02/21-02:07:17.132 3364 Delete type=2 #333
+2023/02/21-02:07:17.135 3364 Delete type=2 #334
+2023/02/21-02:07:17.136 3364 Delete type=2 #335
+2023/02/21-02:07:17.136 3364 Delete type=2 #336
+2023/02/21-02:07:17.136 3364 Delete type=2 #339
