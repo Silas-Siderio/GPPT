@@ -1,3 +1,55 @@
-2023/02/20-01:25:53.438 2438 Reusing MANIFEST C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/02/20-01:25:53.439 2438 Recovering log #265
-2023/02/20-01:25:53.573 2438 Reusing old log C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000265.log 
+2023/02/21-00:15:04.329 1bb0 Reusing MANIFEST C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/21-00:15:04.330 1bb0 Recovering log #277
+2023/02/21-00:15:04.579 1bb0 Reusing old log C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000277.log 
+2023/02/21-00:15:04.579 1bb0 Delete type=2 #267
+2023/02/21-00:15:04.580 1bb0 Delete type=2 #268
+2023/02/21-00:15:04.580 1bb0 Delete type=2 #269
+2023/02/21-00:15:04.580 1bb0 Delete type=2 #270
+2023/02/21-00:15:04.580 1bb0 Delete type=2 #271
+2023/02/21-00:15:04.580 1bb0 Delete type=2 #272
+2023/02/21-00:15:04.580 1bb0 Delete type=2 #273
+2023/02/21-00:15:04.580 1bb0 Delete type=2 #274
+2023/02/21-00:15:04.580 1bb0 Delete type=2 #275
+2023/02/21-00:15:04.580 1bb0 Delete type=2 #278
+2023/02/21-00:15:20.188 1bb0 Level-0 table #291: started
+2023/02/21-00:15:20.375 1bb0 Level-0 table #291: 1253067 bytes OK
+2023/02/21-00:15:20.407 1bb0 Delete type=0 #277
+2023/02/21-00:15:20.441 1bb0 Compacting 1@1 + 10@2 files
+2023/02/21-00:15:20.813 1bb0 Generated table #292@1: 32061 keys, 2205778 bytes
+2023/02/21-00:15:21.129 1bb0 Generated table #293@1: 4088 keys, 2162915 bytes
+2023/02/21-00:15:21.590 1bb0 Generated table #294@1: 3738 keys, 2162978 bytes
+2023/02/21-00:15:21.889 1bb0 Generated table #295@1: 4103 keys, 2163588 bytes
+2023/02/21-00:15:22.772 1bb0 Generated table #296@1: 28445 keys, 2231317 bytes
+2023/02/21-00:15:23.431 1bb0 Generated table #297@1: 27817 keys, 2261296 bytes
+2023/02/21-00:15:23.972 1bb0 Generated table #298@1: 17380 keys, 2163132 bytes
+2023/02/21-00:15:24.854 1bb0 Generated table #299@1: 99007 keys, 2249000 bytes
+2023/02/21-00:15:24.854 1bb0 Level-0 table #301: started
+2023/02/21-00:15:25.046 1bb0 Level-0 table #301: 1267339 bytes OK
+2023/02/21-00:15:25.068 1bb0 Delete type=0 #290
+2023/02/21-00:15:25.564 1bb0 Generated table #302@1: 97821 keys, 2246643 bytes
+2023/02/21-00:15:25.634 1bb0 Generated table #303@1: 8489 keys, 193031 bytes
+2023/02/21-00:15:25.634 1bb0 Compacted 1@1 + 10@2 files => 20039678 bytes
+2023/02/21-00:15:25.664 1bb0 compacted to: files[ 1 0 10 0 0 0 0 ]
+2023/02/21-00:15:25.793 2b48 Moved #301 to level-1 1267339 bytes OK: files[ 0 1 10 0 0 0 0 ]
+2023/02/21-00:15:26.145 1bb0 Compacting 1@1 + 7@2 files
+2023/02/21-00:15:26.654 1bb0 Generated table #304@1: 33900 keys, 2206738 bytes
+2023/02/21-00:15:26.937 1bb0 Generated table #305@1: 4012 keys, 2162790 bytes
+2023/02/21-00:15:27.231 1bb0 Generated table #306@1: 3111 keys, 2156163 bytes
+2023/02/21-00:15:27.653 1bb0 Generated table #307@1: 4411 keys, 2162824 bytes
+2023/02/21-00:15:28.082 1bb0 Generated table #308@1: 24017 keys, 2209926 bytes
+2023/02/21-00:15:28.581 1bb0 Generated table #309@1: 27634 keys, 2262667 bytes
+2023/02/21-00:15:29.256 1bb0 Generated table #310@1: 21374 keys, 2190051 bytes
+2023/02/21-00:15:29.429 1bb0 Generated table #311@1: 3071 keys, 507533 bytes
+2023/02/21-00:15:29.429 1bb0 Compacted 1@1 + 7@2 files => 15858692 bytes
+2023/02/21-00:15:29.466 1bb0 compacted to: files[ 0 0 11 0 0 0 0 ]
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #279
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #280
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #281
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #282
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #283
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #284
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #285
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #286
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #287
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #288
+2023/02/21-00:15:29.467 1bb0 Delete type=2 #291
