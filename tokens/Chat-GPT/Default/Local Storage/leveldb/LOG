@@ -1,5 +1,5 @@
-2023/02/21-12:06:24.938 930 Reusing MANIFEST C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\Local Storage\leveldb/MANIFEST-000001
-2023/02/21-12:06:24.939 930 Recovering log #3
-2023/02/21-12:06:25.087 930 Level-0 table #3: started
-2023/02/21-12:06:25.184 930 Level-0 table #3: 21011 bytes OK
-2023/02/21-12:06:25.293 930 Delete type=0 #3
+2023/02/21-15:08:43.669 2610 Reusing MANIFEST C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\Local Storage\leveldb/MANIFEST-000001
+2023/02/21-15:08:43.669 2610 Recovering log #4
+2023/02/21-15:08:43.670 2610 Level-0 table #6: started
+2023/02/21-15:08:43.876 2610 Level-0 table #6: 25074 bytes OK
+2023/02/21-15:08:43.954 2610 Delete type=0 #4
