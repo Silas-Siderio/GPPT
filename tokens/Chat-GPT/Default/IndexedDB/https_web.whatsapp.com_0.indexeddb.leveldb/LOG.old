@@ -1,55 +1,66 @@
-2023/02/21-00:15:04.329 1bb0 Reusing MANIFEST C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/02/21-00:15:04.330 1bb0 Recovering log #277
-2023/02/21-00:15:04.579 1bb0 Reusing old log C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000277.log 
-2023/02/21-00:15:04.579 1bb0 Delete type=2 #267
-2023/02/21-00:15:04.580 1bb0 Delete type=2 #268
-2023/02/21-00:15:04.580 1bb0 Delete type=2 #269
-2023/02/21-00:15:04.580 1bb0 Delete type=2 #270
-2023/02/21-00:15:04.580 1bb0 Delete type=2 #271
-2023/02/21-00:15:04.580 1bb0 Delete type=2 #272
-2023/02/21-00:15:04.580 1bb0 Delete type=2 #273
-2023/02/21-00:15:04.580 1bb0 Delete type=2 #274
-2023/02/21-00:15:04.580 1bb0 Delete type=2 #275
-2023/02/21-00:15:04.580 1bb0 Delete type=2 #278
-2023/02/21-00:15:20.188 1bb0 Level-0 table #291: started
-2023/02/21-00:15:20.375 1bb0 Level-0 table #291: 1253067 bytes OK
-2023/02/21-00:15:20.407 1bb0 Delete type=0 #277
-2023/02/21-00:15:20.441 1bb0 Compacting 1@1 + 10@2 files
-2023/02/21-00:15:20.813 1bb0 Generated table #292@1: 32061 keys, 2205778 bytes
-2023/02/21-00:15:21.129 1bb0 Generated table #293@1: 4088 keys, 2162915 bytes
-2023/02/21-00:15:21.590 1bb0 Generated table #294@1: 3738 keys, 2162978 bytes
-2023/02/21-00:15:21.889 1bb0 Generated table #295@1: 4103 keys, 2163588 bytes
-2023/02/21-00:15:22.772 1bb0 Generated table #296@1: 28445 keys, 2231317 bytes
-2023/02/21-00:15:23.431 1bb0 Generated table #297@1: 27817 keys, 2261296 bytes
-2023/02/21-00:15:23.972 1bb0 Generated table #298@1: 17380 keys, 2163132 bytes
-2023/02/21-00:15:24.854 1bb0 Generated table #299@1: 99007 keys, 2249000 bytes
-2023/02/21-00:15:24.854 1bb0 Level-0 table #301: started
-2023/02/21-00:15:25.046 1bb0 Level-0 table #301: 1267339 bytes OK
-2023/02/21-00:15:25.068 1bb0 Delete type=0 #290
-2023/02/21-00:15:25.564 1bb0 Generated table #302@1: 97821 keys, 2246643 bytes
-2023/02/21-00:15:25.634 1bb0 Generated table #303@1: 8489 keys, 193031 bytes
-2023/02/21-00:15:25.634 1bb0 Compacted 1@1 + 10@2 files => 20039678 bytes
-2023/02/21-00:15:25.664 1bb0 compacted to: files[ 1 0 10 0 0 0 0 ]
-2023/02/21-00:15:25.793 2b48 Moved #301 to level-1 1267339 bytes OK: files[ 0 1 10 0 0 0 0 ]
-2023/02/21-00:15:26.145 1bb0 Compacting 1@1 + 7@2 files
-2023/02/21-00:15:26.654 1bb0 Generated table #304@1: 33900 keys, 2206738 bytes
-2023/02/21-00:15:26.937 1bb0 Generated table #305@1: 4012 keys, 2162790 bytes
-2023/02/21-00:15:27.231 1bb0 Generated table #306@1: 3111 keys, 2156163 bytes
-2023/02/21-00:15:27.653 1bb0 Generated table #307@1: 4411 keys, 2162824 bytes
-2023/02/21-00:15:28.082 1bb0 Generated table #308@1: 24017 keys, 2209926 bytes
-2023/02/21-00:15:28.581 1bb0 Generated table #309@1: 27634 keys, 2262667 bytes
-2023/02/21-00:15:29.256 1bb0 Generated table #310@1: 21374 keys, 2190051 bytes
-2023/02/21-00:15:29.429 1bb0 Generated table #311@1: 3071 keys, 507533 bytes
-2023/02/21-00:15:29.429 1bb0 Compacted 1@1 + 7@2 files => 15858692 bytes
-2023/02/21-00:15:29.466 1bb0 compacted to: files[ 0 0 11 0 0 0 0 ]
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #279
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #280
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #281
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #282
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #283
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #284
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #285
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #286
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #287
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #288
-2023/02/21-00:15:29.467 1bb0 Delete type=2 #291
+2023/02/21-00:26:54.272 2e5c Reusing MANIFEST C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/21-00:26:54.273 2e5c Recovering log #300
+2023/02/21-00:26:54.412 2e5c Reusing old log C:\Users\Silas\Desktop\gp\zap-gpt\tokens\Chat-GPT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000300.log 
+2023/02/21-00:26:54.412 2e5c Delete type=2 #292
+2023/02/21-00:26:54.413 2e5c Delete type=2 #293
+2023/02/21-00:26:54.413 2e5c Delete type=2 #294
+2023/02/21-00:26:54.413 2e5c Delete type=2 #295
+2023/02/21-00:26:54.413 2e5c Delete type=2 #296
+2023/02/21-00:26:54.413 2e5c Delete type=2 #297
+2023/02/21-00:26:54.413 2e5c Delete type=2 #298
+2023/02/21-00:26:54.413 2e5c Delete type=2 #301
+2023/02/21-00:27:15.510 2530 Level-0 table #314: started
+2023/02/21-00:27:15.687 2530 Level-0 table #314: 1300527 bytes OK
+2023/02/21-00:27:15.717 2530 Delete type=0 #300
+2023/02/21-00:27:15.734 2530 Compacting 1@1 + 11@2 files
+2023/02/21-00:27:16.066 2530 Generated table #315@1: 35347 keys, 2210759 bytes
+2023/02/21-00:27:16.411 2530 Generated table #316@1: 3996 keys, 2162092 bytes
+2023/02/21-00:27:16.855 2530 Generated table #317@1: 3152 keys, 2157574 bytes
+2023/02/21-00:27:17.102 2530 Generated table #318@1: 4405 keys, 2166934 bytes
+2023/02/21-00:27:17.385 2530 Generated table #319@1: 24125 keys, 2211246 bytes
+2023/02/21-00:27:17.720 2530 Generated table #320@1: 27600 keys, 2262831 bytes
+2023/02/21-00:27:18.210 2530 Generated table #321@1: 21028 keys, 2189819 bytes
+2023/02/21-00:27:18.593 2530 Generated table #322@1: 78318 keys, 2221779 bytes
+2023/02/21-00:27:18.940 2530 Generated table #323@1: 97373 keys, 2246162 bytes
+2023/02/21-00:27:19.251 2530 Generated table #324@1: 36435 keys, 831292 bytes
+2023/02/21-00:27:19.251 2530 Compacted 1@1 + 11@2 files => 20660488 bytes
+2023/02/21-00:27:19.293 2530 compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/02/21-00:27:19.294 2530 Delete type=2 #299
+2023/02/21-00:27:19.294 2530 Delete type=2 #302
+2023/02/21-00:27:19.294 2530 Delete type=2 #303
+2023/02/21-00:27:19.294 2530 Delete type=2 #304
+2023/02/21-00:27:19.294 2530 Delete type=2 #305
+2023/02/21-00:27:19.294 2530 Delete type=2 #306
+2023/02/21-00:27:19.294 2530 Delete type=2 #307
+2023/02/21-00:27:19.294 2530 Delete type=2 #308
+2023/02/21-00:27:19.294 2530 Delete type=2 #309
+2023/02/21-00:27:19.294 2530 Delete type=2 #310
+2023/02/21-00:27:19.294 2530 Delete type=2 #311
+2023/02/21-00:27:19.294 2530 Delete type=2 #314
+2023/02/21-00:56:34.158 2530 Level-0 table #326: started
+2023/02/21-00:56:34.356 2530 Level-0 table #326: 1006005 bytes OK
+2023/02/21-00:56:34.383 2530 Delete type=0 #313
+2023/02/21-00:56:34.542 b54 Compacting 1@1 + 10@2 files
+2023/02/21-00:56:35.003 b54 Generated table #327@1: 35677 keys, 2212054 bytes
+2023/02/21-00:56:35.320 b54 Generated table #328@1: 3995 keys, 2163187 bytes
+2023/02/21-00:56:35.614 b54 Generated table #329@1: 3153 keys, 2157040 bytes
+2023/02/21-00:56:35.815 b54 Generated table #330@1: 4404 keys, 2163374 bytes
+2023/02/21-00:56:36.090 b54 Generated table #331@1: 24008 keys, 2211284 bytes
+2023/02/21-00:56:36.469 b54 Generated table #332@1: 27646 keys, 2263469 bytes
+2023/02/21-00:56:36.730 b54 Generated table #333@1: 21093 keys, 2190882 bytes
+2023/02/21-00:56:37.043 b54 Generated table #334@1: 77680 keys, 2222383 bytes
+2023/02/21-00:56:37.388 b54 Generated table #335@1: 97412 keys, 2245877 bytes
+2023/02/21-00:56:37.586 b54 Generated table #336@1: 37926 keys, 867012 bytes
+2023/02/21-00:56:37.586 b54 Compacted 1@1 + 10@2 files => 20696562 bytes
+2023/02/21-00:56:37.627 b54 compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/02/21-00:56:37.628 b54 Delete type=2 #315
+2023/02/21-00:56:37.628 b54 Delete type=2 #316
+2023/02/21-00:56:37.628 b54 Delete type=2 #317
+2023/02/21-00:56:37.628 b54 Delete type=2 #318
+2023/02/21-00:56:37.628 b54 Delete type=2 #319
+2023/02/21-00:56:37.628 b54 Delete type=2 #320
+2023/02/21-00:56:37.628 b54 Delete type=2 #321
+2023/02/21-00:56:37.628 b54 Delete type=2 #322
+2023/02/21-00:56:37.629 b54 Delete type=2 #323
+2023/02/21-00:56:37.629 b54 Delete type=2 #324
+2023/02/21-00:56:37.629 b54 Delete type=2 #326
